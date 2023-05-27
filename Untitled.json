@@ -1,0 +1,14 @@
+{
+    "Process": [
+        "P1",
+        "P2"
+    ],
+    "Burst Time": [
+        4,
+        1
+    ],
+    "Arrival Time": [
+        1,
+        1
+    ]
+}
